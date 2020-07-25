@@ -1,22 +1,24 @@
 body
 {
+    background: rgb(0, 0, 0);
     color: rgb(14, 9, 36);
     text-align: left;
     font-family: 'Times New Roman';
 }
 #cabecera
 {
-    Background: rgb(141, 136, 221); 
+    Background: url("../images/nota.png") no-repeat center center cover ; 
     box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.75);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 3 em;
 
 }
 
 #cabecera #tagline 
-{
+{}
+    
     font-weight: normal;
     font-size: 0.8em;
     padding:  0 0 0 1em;
