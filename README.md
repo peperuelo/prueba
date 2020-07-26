@@ -9,5 +9,11 @@ Este blog cuenta la historia paso a paso del andresito, es necesario recordar qu
 - pan con jamon
 - pan con mortadela
 - salchichon con bocadillo
+<<<<<<< HEAD
+=======
+- arroz con pollo 
+- frijoles con pezuña
+
+>>>>>>> readme-mejorado
 
 Jaja saludos. :smiley:
