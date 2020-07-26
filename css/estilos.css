@@ -1,13 +1,14 @@
 body
 {
     background: rgb(0, 0, 0);
-    color: rgb(14, 9, 36);
+    color: rgb(140, 127, 201);
     text-align: left;
     font-family: 'Times New Roman';
 }
 #cabecera
 {
-    Background: url("../images/nota.png") no-repeat center center cover ; 
+    Background: url("../images/nota.png") no-repeat center center  ;
+     
     box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.75);
     color: white;
     font-weight: bold;
